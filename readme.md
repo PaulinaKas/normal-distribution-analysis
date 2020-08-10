@@ -9,7 +9,18 @@
 #### * General info
 #### * Technologies 
 #### * Setup
-#### * Testing
 #### * Status
 
 ## **General info**:
+
+## **Setup**:
+
+In case you would like to clone this repository, please know that my operating system is macOS 10.14.6. 
+
+After cloning the repository, please install required libraries from ```requirements.txt``` by enter in terminal ```pip install -r requirements.txt```. Then the project should be run with no problems. 
+
+## **Technologies**:
+
+
+## **Status**:
+The project is finished now and won't be developed.

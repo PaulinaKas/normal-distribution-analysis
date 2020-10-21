@@ -12,6 +12,7 @@
 #### * Status
 
 ## **General info**:
+The notebook is in this file: ```normal-distribution-analysis-for-goodreads-data.ipynb```.
 
 ## **Technologies**:
 * Python 3.8.1
